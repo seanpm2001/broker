@@ -323,6 +323,7 @@ set(BROKER_SRC
   src/internal/peering.cc
   src/internal/pending_connection.cc
   src/internal/prometheus.cc
+  src/internal/radix_filter.cc
   src/internal/store_actor.cc
   src/internal/web_socket.cc
   src/internal/wire_format.cc
