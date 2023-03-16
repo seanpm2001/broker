@@ -5,6 +5,7 @@
 #include "broker/detail/peer_status_map.hh"
 #include "broker/fwd.hh"
 #include "broker/internal/pending_connection.hh"
+#include "broker/internal/shared_filter.hh"
 #include "broker/network_info.hh"
 
 #include <caf/actor.hpp>

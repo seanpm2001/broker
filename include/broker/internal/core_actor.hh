@@ -5,6 +5,7 @@
 #include "broker/internal/connector_adapter.hh"
 #include "broker/internal/fwd.hh"
 #include "broker/internal/peering.hh"
+#include "broker/internal/shared_filter.hh"
 #include "broker/lamport_timestamp.hh"
 
 #include <caf/disposable.hpp>

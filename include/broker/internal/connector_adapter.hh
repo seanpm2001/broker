@@ -2,6 +2,7 @@
 
 #include "broker/fwd.hh"
 #include "broker/internal/connector.hh"
+#include "broker/internal/shared_filter.hh"
 
 #include <caf/fwd.hpp>
 
